@@ -1,0 +1,3 @@
+This dataset is based on the original [State Farm Distracted Driver Detection dataset](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data), available on Kaggle.
+
+The label information provided in the CSV file was generated through the manual annotation of a selection of images from the `imgs/test` directory, using [Label Studio](https://labelstud.io/), an open-source data labeling tool.
