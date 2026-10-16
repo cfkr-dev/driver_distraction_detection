@@ -20,3 +20,14 @@ results/
 
 # Local configuration
 config.local.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.profile/
+.jupyter/
+
+# Notebook-generated files
+*.nbconvert.ipynb
+
+# Python kernel files
+kernel-*.json

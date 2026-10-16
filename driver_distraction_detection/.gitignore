@@ -20,9 +20,6 @@ ENV/
 .idea/
 *.iml
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-
 # Python testing
 .pytest_cache/
 .tox/
@@ -43,3 +40,6 @@ htmlcov/
 
 # Python package manager
 pip-wheel-metadata/
+
+# Secret files
+.env
