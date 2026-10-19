@@ -14,4 +14,6 @@ TRAIN_RAW_CSV = RAW_DIR / "train.csv"
 TEST_RAW_CSV = RAW_DIR / "test.csv"
 LABELS_CSV = RAW_DIR / "labels.csv"
 
+TRAIN_PROCESSED_CSV = PROCESSED_DIR / "train.csv"
+EVAL_PROCESSED_CSV = PROCESSED_DIR / "eval.csv"
 TEST_PROCESSED_CSV = PROCESSED_DIR / "test.csv"
